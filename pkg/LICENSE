@@ -1,0 +1,18 @@
+This package includes files from the GPC library (files src/gpc.c and gpc.h)
+which is free for non-comercial use only. See
+http://www.cs.man.ac.uk/~toby/alan/software/.
+
+File src/pnp.f is under a MIT-like license.
+
+Files src/triangle.c and src/triangle.h are "freely available, copyrighted by
+the author and may not be sold or included in commercial products without a
+license." See files for details and http://www.cs.cmu.edu/~quake/triangle.html.
+
+All the other files were originally released under less restrictive 
+licenses.
+
+Hence, this package may not be used for commercial purposes, nor sold or 
+included in commercial products without licenses from the copyright 
+holders. Source code is copyrighted by their respective authors.
+
+
