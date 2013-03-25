@@ -1,3 +1,6 @@
+This file is intended to clarify ownership and copyright: where
+possible individual files also carry brief copyright notices.
+
 This package includes files from the GPC library (files src/gpc.c and gpc.h)
 which is free for non-comercial use only. See
 http://www.cs.man.ac.uk/~toby/alan/software/.
@@ -11,8 +14,10 @@ license." See files for details and http://www.cs.cmu.edu/~quake/triangle.html.
 All the other files were originally released under less restrictive 
 licenses.
 
-Hence, this package may not be used for commercial purposes, nor sold or 
-included in commercial products without licenses from the copyright 
-holders. Source code is copyrighted by their respective authors.
+Hence, this package  is released under a Creative Common
+Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0). This 
+license provides an umbrella to the different licenses of the files included
+in the package. See http://creativecommons.org/licenses/by-nc-sa/3.0/
+for details about this license.
 
 
