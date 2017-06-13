@@ -6,3 +6,9 @@ export(setkernel, cvloglk, phat, mcseg.test)
 export(mcpat.test)
 export(spseg, plotcv, plotphat, plotmc)
 export(kinhat, lambdahat)
+
+importFrom("grDevices", "hsv", "rainbow", "rgb")
+importFrom("graphics", ".filled.contour", "axis", "box", "contour",
+             "image", "layout", "lcm", "par", "plot", "plot.new",
+             "plot.window", "points", "polygon", "rect", "text", "title")
+importFrom("stats", "runif")
